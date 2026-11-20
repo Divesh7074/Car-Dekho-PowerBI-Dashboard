@@ -75,22 +75,3 @@ KPI Development
 Interactive Dashboard Design
 
 Business Intelligence
-
-**Project Files**
-
-Car_Dekho_Dashboard.pbix – Power BI dashboard file.
-
-README.md – Project documentation.
-
-Car_Dekho_Dashboard.png – Dashboard screenshot.
-
-Dataset – Source data (if shareable).
-
-**Conclusion**
-
-This project demonstrates practical data analytics skills using Power BI. It helps explore vehicle listing patterns, fuel preferences, seller categories, and manufacturing trends through an interactive dashboard.
-
-Project Category: Data Analytics
-Tool: Microsoft Power BI
-
-Created by: **Divesh Kumar**
